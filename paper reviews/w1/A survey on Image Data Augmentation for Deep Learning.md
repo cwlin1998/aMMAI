@@ -8,7 +8,7 @@ Presents a series of Data Augmentation solutions to the problem of overfitting i
 
 ## Image Data Augmentation techniques
 
-![](./Data Augmentation.png)
+![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper reviews/w1/Data Augmentation.png))
 
 ### Data Augmentation based on basic image manipulations
 
