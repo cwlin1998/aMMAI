@@ -21,19 +21,19 @@ This paper introduces a new loss function, Additive Angular Margin Loss (ArcFace
 
 1. Softmax
 
-   ![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/L1.png)
+   ![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/img/L1.png)
 
 2. Weight normalization
 
-   ![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/L2.png)
+   ![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/img/L2.png)
 
 3. Add additive angular margin penalty
 
-   ![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/L3.png)
+   ![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/img/L3.png)
 
 ### Algorithm
 
-![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/Algo.png)
+![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/img/Algo.png)
 
 
 
@@ -41,12 +41,12 @@ This paper introduces a new loss function, Additive Angular Margin Loss (ArcFace
 
 **Verification performance (%) for different loss functions**
 
-![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/verification_results_loss.png)
+![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/img/verification_results_loss.png)
 
 **Verification performance (%) for different method on LFW and YTF**
 
-![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/verification_results_method.png)
+![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/img/verification_results_method.png)
 
 **Face identification and verification evaluation of different methods on MegaFace Challenge1**
 
-![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/MegaFace_challenge.png)
+![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/img/MegaFace_challenge.png)

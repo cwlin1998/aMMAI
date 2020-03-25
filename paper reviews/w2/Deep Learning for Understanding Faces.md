@@ -32,7 +32,7 @@ There are mainly three modules in face recognition:
   - detections at different scales are typically carried out by creating an image pyramid at multiple scale
   - e.g. DP2MFD, DDFD
 
-![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/face_detector.png)
+![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/img/face_detector.png)
 
 - Single-shot detector
   - a sliding-window-based detector
@@ -63,11 +63,11 @@ There are mainly three modules in face recognition:
 
 - Trainging data sets for face recognition
 
-  ![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/dataset_face_recognition.png)
+  ![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/img/dataset_face_recognition.png)
 
 - Performance summary
 
-  ![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/performance_summary.png)
+  ![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/img/performance_summary.png)
 
 ### Facial attributes
 
