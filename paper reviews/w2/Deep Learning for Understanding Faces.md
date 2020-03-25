@@ -61,7 +61,7 @@ There are mainly three modules in face recognition:
 
   - subdivide into two tasks: face verification and face identification
 
-- Trainging data sets for face recognition
+- Training data sets for face recognition
 
   ![](https://raw.githubusercontent.com/cwlin1998/aMMAI/master/paper%20reviews/w2/img/dataset_face_recognition.png)
 
